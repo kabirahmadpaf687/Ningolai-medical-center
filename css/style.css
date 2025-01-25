@@ -24,7 +24,7 @@ body{
     top: 7%;
     border-radius: 8px;
     z-index: 1000;
-    position: sticky;
+    position: absolute;
 }
 
 
